@@ -36,9 +36,7 @@ DevMatch는 단순한 ‘스터디 모집’이 아니라,
 
 ## 🗂 ERD
 
-📁 [`ERD-cloud`]((https://www.erdcloud.com/d/77DYzjE5Sw8ewHoc2))
-
-![ERD](./docs/devmatch-erd.png)
+👉 [ERD 보기 (ERDCloud 링크)](https://www.erdcloud.com/d/77DYzjE5Sw8ewHoc2)
 
 ---
 

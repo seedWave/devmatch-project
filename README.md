@@ -36,7 +36,7 @@ DevMatch는 단순한 ‘스터디 모집’이 아니라,
 
 ## 🗂 ERD
 
-📁 [`docs/devmatch-erd.drawio`](./docs/devmatch-erd.drawio)
+📁 [`ERD-cloud`]((https://www.erdcloud.com/d/77DYzjE5Sw8ewHoc2))
 
 ![ERD](./docs/devmatch-erd.png)
 
